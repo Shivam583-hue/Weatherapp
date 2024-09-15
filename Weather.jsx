@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react'
 import SeachComponent from './SeachComponent'
 import './Weather.css'
 
+//making a change to test the github commiting
+
 function Weather() {
 
     const[search,setSeach] = useState("");
